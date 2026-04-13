@@ -2,7 +2,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Platform.BuildingBlocks.Abstractions;
 using Platform.BuildingBlocks.DateTimes;
 
-namespace Platform.BuildingBlocks;
+namespace Platform.BuildingBlocks.Extensions;
 
 public static class DependencyInjection
 {
