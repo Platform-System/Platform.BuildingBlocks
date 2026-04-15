@@ -1,4 +1,4 @@
-﻿using Platform.BuildingBlocks.Abstractions;
+using Platform.BuildingBlocks.Abstractions;
 
 namespace Platform.BuildingBlocks.DateTimes
 {
