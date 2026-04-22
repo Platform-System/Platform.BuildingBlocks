@@ -1,4 +1,4 @@
-name: Platform.BuildingBlocks CI
+name: BuildingBlocks CI
 
 on:
   push:
